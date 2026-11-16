@@ -1,0 +1,184 @@
+.feat{ position: relative;
+    width: 152px;
+height: 60px;
+top: 15px;
+left: 148px;
+
+
+}
+
+.ltwo{ position: relative;
+    width: 246px;
+height: 180px;
+top: 22px;
+left: 146px;
+border-radius: 6px;
+
+}
+.desind{
+    position: absolute;
+    width: 305px;
+height: 44px;
+top: 1030px;
+left: 418px;
+font-family: Heebo;
+font-weight: 700;
+font-size: 27px;
+
+line-height: 100%;
+letter-spacing: 0px;
+
+
+}
+.twenti{
+    position: relative;
+width: 50px;
+height: 20px;
+top: -90px;
+left: 170px;
+background-color: black;
+border-radius: 10px;
+}
+.dash{ position: absolute;
+   color:  rgba(134, 149, 164, 1);
+font-family: Heebo;
+font-weight: 400px;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0px;
+width: 374px;
+height: 34px;
+top: 1080px;
+left: 498px;
+
+
+
+}
+.text{ position: absolute;
+    width: 594px;
+height: 93px;
+top: 1120px;
+left: 410px;
+
+
+}
+hr{
+    width: 858px;
+    position: absolute;
+    left: 146px;
+}
+
+
+.ltwo{ position: relative;
+    width: 246px;
+height: 180px;
+top: 22px;
+left: 146px;
+border-radius: 6px;
+
+}
+.vib{
+    position: absolute;
+    width: 305px;
+height: 44px;
+top: 1250px;
+left: 418px;
+font-family: Heebo;
+font-weight: 700;
+font-size: 27px;
+
+line-height: 100%;
+letter-spacing: 0px;
+
+
+}
+.twenti{
+    position: relative;
+width: 50px;
+height: 20px;
+top: -90px;
+left: 170px;
+background-color: black;
+border-radius: 10px;
+}
+.svg{ position: absolute;
+   color:  rgba(134, 149, 164, 1);
+font-family: Heebo;
+font-weight: 400px;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0px;
+width: 374px;
+height: 34px;
+top: 1300px;
+left: 498px;
+
+
+
+}
+.texttwo{ position: absolute;
+    width: 594px;
+height: 93px;
+top: 1350px;
+left: 410px;
+
+
+}
+hr{
+    width: 858px;
+    position: absolute;
+    left: 146px;
+}
+.day{
+    position: absolute;
+    width: 305px;
+height: 44px;
+top: 1470px;
+left: 418px;
+font-family: Heebo;
+font-weight: 700;
+font-size: 27px;
+line-height: 100%;
+letter-spacing: 0px;
+white-space: nowrap;
+
+}
+.twenti{
+    position: relative;
+width: 50px;
+height: 20px;
+top: -90px;
+left: 170px;
+background-color: black;
+border-radius: 10px;
+}
+.typ{ position: absolute;
+   color:  rgba(134, 149, 164, 1);
+font-family: Heebo;
+font-weight: 400px;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0px;
+width: 374px;
+height: 34px;
+top: 1523px;
+left: 498px;
+
+
+
+}
+.textfoor{ position: absolute;
+    width: 594px;
+height: 93px;
+top: 1570px;
+left: 410px;
+
+
+}
+hr{
+    width: 858px;
+    position: absolute;
+    left: 146px;
+}
+
+

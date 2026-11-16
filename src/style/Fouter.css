@@ -1,0 +1,17 @@
+.foot{ position: relative;
+    width: 1152px;
+height: 182px;
+top: 134px;
+
+
+}
+.elem{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.ft{
+    display: flex;
+    justify-content: center;
+}

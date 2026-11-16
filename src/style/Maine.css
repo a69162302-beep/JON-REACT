@@ -1,0 +1,77 @@
+.kok {
+  width: 1, 152px;
+  height: 396px;
+  background-color: rgba(237, 247, 250, 1);
+  .recent {
+    color: rgba(33, 36, 61, 1);
+    position: relative;
+    width: 129px;
+    height: 60px;
+    top: 7px;
+    left: 140px;
+  }
+  .view {
+    color: rgba(0, 168, 204, 1);
+    position: relative;
+    width: 208px;
+    height: 20px;
+    top: 7px;
+    left: 790px;
+  }
+}
+.ak{ padding: 24px;
+    position: absolute;
+    width: 418px;
+height: 250px;
+top: 600px;
+left: 148px;
+border-radius: 4px;
+background-color: white;
+}
+.pteg{ position: relative;
+    top: 17px;
+    display: flex;
+    gap: 10px;
+
+}
+.amet{ position: absolute;
+    width: 368px;
+height: 117px;
+top: 120px;
+left: 23px;
+
+
+}
+
+.aktwo{ padding: 24px;
+    position: absolute;
+width: 418px;
+height: 250px;
+top: 600px;
+left: 586px;
+border-radius: 4px;
+
+background-color: white;
+}
+.teg{ position: relative;
+    top: 17px;
+    display: flex;
+    gap: 10px;
+
+}
+.twoamet{ position: absolute;
+    width: 368px;
+height: 117px;
+top: 120px;
+left: 23px;
+
+
+}
+
+
+
+
+
+
+
+
